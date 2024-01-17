@@ -16,9 +16,11 @@
     "@storybook/addon-links": "^7.6.8",
     "@storybook/addon-onboarding": "^1.0.10",
     "@storybook/blocks": "^7.6.8",
+    "@storybook/manager-api": "^7.6.8",
     "@storybook/react": "^7.6.8",
     "@storybook/react-vite": "^7.6.8",
     "@storybook/test": "^7.6.8",
+    "@storybook/theming": "^7.6.8",
     "@vitejs/plugin-react": "^4.2.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -29,8 +31,9 @@
   "dependencies": {
     "@ignite-ui/eslint-config": "*",
     "@ignite-ui/react": "*",
-    "@ignite-ui/ts-config": "*",
     "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   }
 }

@@ -31,10 +31,10 @@
     "vite": "^5.0.11"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@marcelo-de-castro-ignite/eslint-config": "*",
+    "@marcelo-de-castro-ignite/react": "*",
+    "@marcelo-de-castro-ignite/tokens": "*",
+    "@marcelo-de-castro-ignite/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.9",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
